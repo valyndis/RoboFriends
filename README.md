@@ -1,1 +1,1 @@
-App with search bar done with React.
+Search bar app done with React.
